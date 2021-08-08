@@ -1,0 +1,2 @@
+colorscheme monokai
+"set termguicolors
